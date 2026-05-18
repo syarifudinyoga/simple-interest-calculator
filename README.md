@@ -42,3 +42,5 @@ Simple Interest = 100
 ## Author
 
 Syarifudin Yoga Pinasty
+
+Edited Simple interest calculator project.
